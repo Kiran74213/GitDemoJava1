@@ -21,6 +21,11 @@ class B{
     {
         System.out.println(a+" "+name);
     }
+    
+    void developBranch()   // Method --------------
+    {
+        System.out.println("Develop branch changes");
+    }
 
     
 }
