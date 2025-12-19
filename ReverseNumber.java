@@ -14,6 +14,11 @@ public class ReverseNumber {
         }
 
         System.out.println("Reversed number: " + reversed);
-        sc.close();
+
+        System.out.println("First");
+        System.out.println("Second");
+        System.out.println("Third");
+
+        
     }
 }
