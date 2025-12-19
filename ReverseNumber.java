@@ -19,6 +19,10 @@ public class ReverseNumber {
         System.out.println("Second");
         System.out.println("Third");
 
+        System.out.println("How");
+        System.out.println("are");
+        System.out.println("you");
+
         
     }
 }

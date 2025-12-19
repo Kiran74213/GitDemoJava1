@@ -1,5 +1,4 @@
 
-
 public class Constructor {
     public static void main(String[] args) {
 
@@ -22,4 +21,6 @@ class B{
     {
         System.out.println(a+" "+name);
     }
+
+    
 }
